@@ -1,6 +1,6 @@
-# Git Flow – Rebase, Merge e Squash
+# Git Flow – Rebase, Merge, Squash, Revert e Reset Commit
 
-Este repositório contém os materiais utilizados em uma apresentação interna sobre boas práticas de Git, com foco nos comandos `rebase`, `merge` e `squash`, incluindo exemplos práticos e fluxogramas ilustrativos.
+Este repositório contém os materiais utilizados em uma apresentação interna sobre boas práticas de Git, com foco nos comandos `rebase`, `merge`, `squash`, `revert` e `reset`, incluindo exemplos práticos e fluxogramas ilustrativos.
 
 ## Conteúdo
 
@@ -10,6 +10,8 @@ Este repositório contém os materiais utilizados em uma apresentação interna 
   - Quando usar `rebase` e como lidar com conflitos corretamente.
   - Como e quando fazer `squash` de commits de forma segura.
   - Diferenças visuais entre `merge` e `rebase`.
+  - O que é Git Revert
+  - O que é Git Reset
 
 ## Objetivo
 
